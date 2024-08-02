@@ -1,0 +1,6 @@
+data/
+figures/
+models/
+saved_results/
+*.png
+*.ipynb
